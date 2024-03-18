@@ -6,4 +6,4 @@ url=https://github.com/WeAreROLI/JUCE.git
 	url = https://github.com/GerHobbelt/pthread-win32.git
 [submodule "libpd/pure-data"]
 	path = libpd/pure-data
-	url = https://github.com/pierreguillot/pure-data.git
+	url = https://github.com/Josef-N/pure-data.git
